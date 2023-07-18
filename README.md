@@ -11,10 +11,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <img align="right" height="300" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif"  />
 
 ###
