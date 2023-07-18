@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="\image_processing20210401-29100-ess23a.gif"" width="1000" height="300"/>
+  <img src="image_processing20210401-29100-ess23a.gif"" width="1000" height="300"/>
 </div>
 
 <h1 align="center">Hey 👋 What's up?</h1>
