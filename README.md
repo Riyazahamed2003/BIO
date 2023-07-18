@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Pleased to meet you ^ I'm RIYAZ AHAMED K K</h1>
+<h1 align="center">Pleased to meet you ᯤ I'm RIYAZ AHAMED K K</h1>
 <h3 align="center">A Passionate Software developer from India</h3>
 
 ###
