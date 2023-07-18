@@ -47,17 +47,11 @@
 
 ###
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Riyazahamed2003&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Riyazahamed2003&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyazahamed2003&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=sujith9384" height="150" alt="stats graph"   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=sujith9384" height="150" alt="languages graph"  />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujith9384&theme=dark" alt="sujith9384" /></p>
-</div>
- 
- ## <h2 align="left">🏆 GitHub Trophies</h2>
-![](https://github-profile-trophy.vercel.app/?username=sujith9384&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Riyazahamed2003&icon=0&color=6)](https://visitcount.itsvg.in)
