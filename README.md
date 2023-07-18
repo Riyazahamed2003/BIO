@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on ->Portfolio<br><br>🌱 I’m currently learning-> <br><br>👨‍💻 All of my projects are available at ->https://rockerz2z.github.io/devportfolio/<br><br>📫 How to reach me ->riyazahamed1806@gmail.com<br><br>📄 Know about my experiences ->https://tinyurl.com/5n7wd92r<br><br>⚡ Quotes **"The only way to do great work is to love what you do.🏆🎲" - Steve Jobs**
+<p align="left">🔭 I’m currently working on ->Portfolio<br><br>🌱 I’m currently learning-> <br><br>👨‍💻 All of my projects are available at ->https://rockerz2z.github.io/devportfolio/<br><br>📫 How to reach me ->riyazahamed1806@gmail.com<br><br>📄 Know about my experiences ->https://tinyurl.com/4dkkcx5h<br><br>⚡ Quotes **"Crafting the Future | AI + Data Science.🤖👨🏻‍💻" - Steve Jobs**
 </p>
 
 ###
