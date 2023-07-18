@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://images.app.goo.gl/cmryfHH4f9ertZPMA](https://dribbble.com/shots/15401203-Artificial-intelligence-G-F?utm_source=Clipboard_Shot&utm_campaign=diksharani0287&utm_content=Artificial%20intelligence%20G%2FF&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=diksharani0287&utm_content=Artificial%20intelligence%20G%2FF&utm_medium=Social_Share)" width="1000" height="300"/>
+  <img src="https://dribbble.com/shots/15401203-Artificial-intelligence-G-F" width="1000" height="300"/>
 </div>
 
 <h1 align="center">Hey 👋 What's up?</h1>
