@@ -38,6 +38,9 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </div>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riyaz.__z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riyaz-ahamed-k-k-49495b240) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rockerz2z) 
+
 ###
 
 <h2 align="left">Git Stats</h2>
@@ -50,11 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=sujith9384" height="150" alt="languages graph"  />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujith9384&theme=dark" alt="sujith9384" /></p>
 </div>
-
-###
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riyaz.__z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riyaz-ahamed-k-k-49495b240) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rockerz2z) 
  
  ## <h2 align="left">🏆 GitHub Trophies</h2>
 ![](https://github-profile-trophy.vercel.app/?username=sujith9384&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
