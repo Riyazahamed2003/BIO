@@ -59,6 +59,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sujith9384/sujith9384/output/snake.svg" alt="Snake animation" />
-
+---
+[![](https://visitcount.itsvg.in/api?id=Riyazahamed2003&icon=0&color=6)](https://visitcount.itsvg.in)
 ###
