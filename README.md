@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Riyazahamed2003/Riyazahamed2003/assets/118614045/c321f0e4-9c42-4adc-a335-8b9bb8725eb1" width="500" height="300"/>
+  <img src="![image](https://github.com/Riyazahamed2003/Riyazahamed2003/assets/118614045/33a34956-fdff-4572-989e-7c1d48af230b)" width="500" height="300"/>
 </div>
 
 <h1 align="center">Hey 👋 What's up?</h1>
