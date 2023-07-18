@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://dribbble.com/shots/15401203-Artificial-intelligence-G-F/attachments/7166542?mode=media" width="1000" height="300"/>
+  <img src="https://images.app.goo.gl/cmryfHH4f9ertZPMA" width="1000" height="300"/>
 </div>
 
 <h1 align="center">Hey 👋 What's up?</h1>
