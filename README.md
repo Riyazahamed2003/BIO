@@ -6,8 +6,8 @@
 
 ###
 
-<h1 align="center">Pleased to meet you->I'm SUJITH</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">Pleased to meet you ^ I'm RIYAZ AHAMED K K</h1>
+<h3 align="center">A Passionate Software developer from India</h3>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on ->Portfolio<br><br>🌱 I’m currently learning-> Java<br><br>👨‍💻 All of my projects are available at ->https://sujith.netlify.app/<br><br>📫 How to reach me ->sujisujith9384@gmail.com<br><br>📄 Know about my experiences ->https://tinyurl.com/5n7wd92r<br><br>⚡ Quotes **"The only way to do great work is to love what you do.🏆🎲" - Steve Jobs**
+<p align="left">🔭 I’m currently working on ->Portfolio<br><br>🌱 I’m currently learning-> <br><br>👨‍💻 All of my projects are available at ->https://sujith.netlify.app/<br><br>📫 How to reach me ->riyazahamed1806@gmail.com<br><br>📄 Know about my experiences ->https://tinyurl.com/5n7wd92r<br><br>⚡ Quotes **"The only way to do great work is to love what you do.🏆🎲" - Steve Jobs**
 </p>
 
 ###
